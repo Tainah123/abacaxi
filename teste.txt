@@ -1,7 +1,7 @@
-<html>
+﻿<html>
 
 	<head>
-		<title>Arquivo da turma B</title>
+		<title>Arquivo da turma B (turma legal)</title>
 	</head>
 	
 	<body>
