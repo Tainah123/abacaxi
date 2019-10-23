@@ -1,0 +1,12 @@
+<html>
+
+	<head>
+		<title>Arquivo da turma B</title>
+	</head>
+	
+	<body>
+		<h1>Esse é o arquivo da turma B</h1>
+		</br>
+		<p>Arquivo teste da turma B</p>
+	</body>
+</html>	
