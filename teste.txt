@@ -1,7 +1,11 @@
 ﻿<html>
 
 	<head>
-		<title>Arquivo da turma B (turma legal)</title>
+
+		<title>Arquivo da turma B (turma legal) (sai fora turma A)</title>
+
+		
+
 	</head>
 	
 	<body>
